@@ -5,10 +5,6 @@
 I'm a Computer Science & Engineering student interested in building
 scalable, real-time and user-focused software applications.
 
-Currently working as a **Software Engineer Intern at OPAL-RT Technologies**, 
-where I'm working on real-time telemetry visualization and full-stack
-application development.
-
 ---
 
 ## 🚀 About Me
