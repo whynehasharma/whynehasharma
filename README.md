@@ -1,10 +1,10 @@
-# 💫 About Me:
+#  About Me:
 
 I’m a **Computer Science & Engineering student and Software Developer** passionate about building **full-stack applications, solving problems, and learning scalable software systems**.
 
 * 🔭 Currently working on: **Full-stack applications, real-time systems, and software engineering projects**.
 * 🤝 Open to collaborate on: **Full-stack projects, open-source contributions, and hackathon ideas**.
-* 🌱 Learning: **Data Structures & Algorithms, System Design,Cloud, and DevOps**.
+* 🌱 Learning: **Data Structures & Algorithms**.
 * 💬 Ask me about: **React, Node.js, Python, REST APIs, databases, and full-stack development**.
 * ☁️ Community: **Cloud Lead at Google Developer Groups On Campus**.
 * ⚡ Fun fact: **I enjoy turning ideas into working products and solving real-world problems.**
