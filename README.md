@@ -11,7 +11,7 @@ I’m a **Computer Science & Engineering student and Software Developer** passio
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 <p align="left">
   <a href="https://portfolio-xi-blue-20.vercel.app/">
