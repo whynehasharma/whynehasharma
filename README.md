@@ -1,18 +1,18 @@
 # Neha Sharma
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77728C,100:B8B3C9&height=180&section=header&text=NEHA%20SHARMA&fontSize=48&fontAlignY=38&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3DDE3,100:D9A7B7&height=190&section=header&text=NEHA%20SHARMA&fontSize=50&fontAlignY=38&fontColor=704B58&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=918BA5&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Engineer+%7C+Full-Stack+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Growing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A66D80&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Software+Engineer+%7C+Full-Stack+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Typing SVG"/>
 </p>
 
 ---
 
 ### About Me
 
-Computer Science and Engineering student interested in software engineering, full-stack development, and building scalable applications.
+Computer Science and Engineering student passionate about software engineering, full-stack development, and building scalable applications.
 
 - Software Engineering & Full-Stack Development
 - JavaScript, TypeScript, React and Node.js
@@ -21,60 +21,60 @@ Computer Science and Engineering student interested in software engineering, ful
 - Cloud Computing
 
 <p align="center">
-  <i>Learning, building and improving every day.</i>
+  <i>Learning, building and becoming a better developer one line of code at a time.</i>
 </p>
 
 ---
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-555555?style=flat-square&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-D9A7B7?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-D9A7B7?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-D9A7B7?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-D9A7B7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-D9A7B7?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-D9A7B7?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-D9A7B7?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-777777?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-777777?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-777777?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-777777?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-777777?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-777777?style=flat-square&logo=vite&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E9C5D0?style=for-the-badge&logo=html5&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/CSS3-E9C5D0?style=for-the-badge&logo=css3&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/React-E9C5D0?style=for-the-badge&logo=react&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-E9C5D0?style=for-the-badge&logo=tailwindcss&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/Bootstrap-E9C5D0?style=for-the-badge&logo=bootstrap&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/Vite-E9C5D0?style=for-the-badge&logo=vite&logoColor=704B58"/>
 </p>
 
 ### Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WebSockets-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Socket.io-555555?style=flat-square&logo=socketdotio&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-D9A7B7?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-D9A7B7?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-D9A7B7?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-D9A7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-D9A7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-D9A7B7?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 ### Databases
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-777777?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-777777?style=flat-square&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-E9C5D0?style=for-the-badge&logo=mongodb&logoColor=704B58"/>
+  <img src="https://img.shields.io/badge/MySQL-E9C5D0?style=for-the-badge&logo=mysql&logoColor=704B58"/>
 </p>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-555555?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-555555?style=flat-square&logo=googlecloud&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-D9A7B7?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-D9A7B7?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-D9A7B7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-D9A7B7?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-D9A7B7?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Computer Science and Engineering student interested in software engineering, ful
 
 <p align="center">
   <a href="https://leetcode.com/u/whynehasharma/">
-    <img src="https://leetcard.jacoblin.cool/whynehasharma?theme=dark&font=Baloo&ext=heatmap" width="480"/>
+    <img src="https://leetcard.jacoblin.cool/whynehasharma?theme=light&font=Baloo&ext=heatmap" width="500"/>
   </a>
 </p>
 
@@ -97,13 +97,13 @@ Computer Science and Engineering student interested in software engineering, ful
 
 <p align="center">
   <a href="https://github.com/whynehasharma">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-704B58?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-526D82?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/neha-sharma-8b398b2a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-B77F91?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://portfolio-xi-blue-20.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-8B849B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-D9A7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
