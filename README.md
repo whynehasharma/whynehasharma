@@ -28,23 +28,54 @@ Computer Science and Engineering student interested in software engineering, ful
 
 ### Languages
 
-\<p>   \<img src="[https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/C-555555?style=flat-square\&logo=c\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-555555?style=flat-square\&logo=cplusplus\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-555555?style=flat-square\&logo=openjdk\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-555555?style=flat-square\&logo=python\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-555555?style=flat-square\&logo=javascript\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-555555?style=flat-square\&logo=typescript\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/SQL-555555?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-555555?style=flat-square\&logo=mysql\&logoColor=white)"/> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/C-555555?style=flat-square\&logo=c\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-555555?style=flat-square\&logo=cplusplus\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-555555?style=flat-square\&logo=openjdk\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-555555?style=flat-square\&logo=python\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-555555?style=flat-square\&logo=javascript\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-555555?style=flat-square\&logo=typescript\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/SQL-555555?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-555555?style=flat-square\&logo=mysql\&logoColor=white)"/>
+\</p>
 
 ### Frontend Development
 
-\<p>   \<img src="[https://img.shields.io/badge/HTML5-777777?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-777777?style=flat-square\&logo=html5\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/CSS3-777777?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-777777?style=flat-square\&logo=css3\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/React-777777?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/React-777777?style=flat-square\&logo=react\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Tailwind_CSS-777777?style=flat-square&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-777777?style=flat-square\&logo=tailwindcss\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Bootstrap-777777?style=flat-square&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-777777?style=flat-square\&logo=bootstrap\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Vite-777777?style=flat-square&logo=vite&logoColor=white](https://img.shields.io/badge/Vite-777777?style=flat-square\&logo=vite\&logoColor=white)"/> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/HTML5-777777?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-777777?style=flat-square\&logo=html5\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/CSS3-777777?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-777777?style=flat-square\&logo=css3\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/React-777777?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/React-777777?style=flat-square\&logo=react\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Tailwind_CSS-777777?style=flat-square&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-777777?style=flat-square\&logo=tailwindcss\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Bootstrap-777777?style=flat-square&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-777777?style=flat-square\&logo=bootstrap\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Vite-777777?style=flat-square&logo=vite&logoColor=white](https://img.shields.io/badge/Vite-777777?style=flat-square\&logo=vite\&logoColor=white)"/>
+\</p>
 
 ### Backend & APIs
 
-\<p>   \<img src="[https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-555555?style=flat-square\&logo=nodedotjs\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-555555?style=flat-square\&logo=express\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-555555?style=flat-square\&logo=fastapi\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/REST_APIs-555555?style=flat-square](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)"/>   \<img src="[https://img.shields.io/badge/WebSockets-555555?style=flat-square](https://img.shields.io/badge/WebSockets-555555?style=flat-square)"/>   \<img src="[https://img.shields.io/badge/Socket.io-555555?style=flat-square&logo=socketdotio&logoColor=white](https://img.shields.io/badge/Socket.io-555555?style=flat-square\&logo=socketdotio\&logoColor=white)"/> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-555555?style=flat-square\&logo=nodedotjs\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-555555?style=flat-square\&logo=express\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-555555?style=flat-square\&logo=fastapi\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/REST_APIs-555555?style=flat-square](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)"/>
+&#x20; \<img src="[https://img.shields.io/badge/WebSockets-555555?style=flat-square](https://img.shields.io/badge/WebSockets-555555?style=flat-square)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Socket.io-555555?style=flat-square&logo=socketdotio&logoColor=white](https://img.shields.io/badge/Socket.io-555555?style=flat-square\&logo=socketdotio\&logoColor=white)"/>
+\</p>
 
 ### Databases
 
-\<p>   \<img src="[https://img.shields.io/badge/MongoDB-777777?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-777777?style=flat-square\&logo=mongodb\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/MySQL-777777?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-777777?style=flat-square\&logo=mysql\&logoColor=white)"/> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-777777?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-777777?style=flat-square\&logo=mongodb\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-777777?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-777777?style=flat-square\&logo=mysql\&logoColor=white)"/>
+\</p>
 
 ### Tools & Platforms
 
-\<p>   \<img src="[https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-555555?style=flat-square\&logo=git\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-555555?style=flat-square\&logo=github\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-555555?style=flat-square\&logo=visualstudiocode\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Postman-555555?style=flat-square&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-555555?style=flat-square\&logo=postman\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Google_Cloud-555555?style=flat-square&logo=googlecloud&logoColor=white](https://img.shields.io/badge/Google_Cloud-555555?style=flat-square\&logo=googlecloud\&logoColor=white)"/> \</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-555555?style=flat-square\&logo=git\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-555555?style=flat-square\&logo=github\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/VS_Code-555555?style=flat-square&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-555555?style=flat-square\&logo=visualstudiocode\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Postman-555555?style=flat-square&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-555555?style=flat-square\&logo=postman\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Google_Cloud-555555?style=flat-square&logo=googlecloud&logoColor=white](https://img.shields.io/badge/Google_Cloud-555555?style=flat-square\&logo=googlecloud\&logoColor=white)"/>
+\</p>
 
 ---
 
